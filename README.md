@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **python ,c , competitive programing**
+- 💬 Ask me about **python ,c , competitive programming**
 
 - 📫 How to reach me **rahulguggilam2003@gmail.com**
 
