@@ -1,5 +1,5 @@
 
-<img align="center" alt="devops" width=800 height=200 src="banner.png">
+<img align="center" width=800 height=200 src="banner.png">
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
