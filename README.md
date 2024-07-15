@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
-<video src="https://cdn.dribbble.com/users/878428/screenshots/17036135/media/fd3a50789ec9ce6cb541efc9948ee345.mp4" alt="Blockchain" width="400" ></video>
+|<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-3b540f4428.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulguggilam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulguggilam" /> </p>
 
