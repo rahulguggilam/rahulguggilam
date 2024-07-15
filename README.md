@@ -1,5 +1,5 @@
 
-<img align="center" width=100 height=200 src="banner.png">
+<img align="center" width=100% alt="Blockchain" src="banner_final.avif">
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
