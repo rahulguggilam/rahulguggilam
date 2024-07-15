@@ -1,5 +1,5 @@
 
-<!---[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]--->
+<img align="center" alt="devops" width=800 height=200 src="banner.png">
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
