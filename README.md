@@ -1,9 +1,9 @@
 
-<img align="center" width=100% alt="Blockchain" src="banner_final.avif">
+<img align="center" width=100% alt="Blockchain" src="1689829774712.jpg">
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
-|<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-3b540f4428.gif">
+|<img align="right" alt="Coding" width="400" src="crypto_stack_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulguggilam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulguggilam" /> </p>
 
