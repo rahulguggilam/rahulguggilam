@@ -28,6 +28,7 @@
 <a href="https://www.leetcode.com/rahulguggilam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulguggilam" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rahulguggilam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulguggilam" height="30" width="40" /></a>
 </p>
+[![An image of @rahulguggilam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulguggilam)](https://holopin.io/@rahulguggilam)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
