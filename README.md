@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulguggilam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulguggilam" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **python ,c , competitive programming**
 
