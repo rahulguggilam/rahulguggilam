@@ -2,7 +2,7 @@
 <img align="center" width=100% alt="Blockchain" src="1689829774712.jpg">
 
 <h1 align="center">Hi 👋, I'm Rahul Guggilam</h1>
-<h3 align="center">A Blockchain Enthusiast</h3>
+<h3 align="center">A Data Science Enthusiast</h3>
 <!-- |<img align="right" alt="Coding" width="400" src="crypto_stack_2.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulguggilam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulguggilam" /> </p>
